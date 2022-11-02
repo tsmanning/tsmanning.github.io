@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : #"Tyler Manning"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/photo_2021-08-09_09-49-12.jpg"
   bio              : "I am a vision scientist currently working as a postdoctoral fellow at UC Berkeley."
   location         : "San Francisco, CA"
   email            :
