@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "About"
-    url: https://tsmanning.github.io/About
+    url: /about
   - title: "Projects"
-    url: https://tsmanning.github.io/Projects
+    url: /projects
   - title: "Publications"
-    url: https://tsmanning.github.io/Publications
+    url: /publications
   - title: "Teaching"
-    url: https://tsmanning.github.io/Teaching
+    url: /teaching
   # - title: "Sitemap"
   #   url: /sitemap/
