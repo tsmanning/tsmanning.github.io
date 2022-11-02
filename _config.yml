@@ -120,7 +120,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/GnarlyTinmen"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-google-scholar"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=Lqnrr_wAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
