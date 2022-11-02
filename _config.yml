@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : #"Tyler Manning"
-  avatar           : "assets/photo_2021-08-09_09-49-12.jpg"
+  avatar           : "assets/images/photo_2021-08-09_09-49-12.jpg"
   bio              : "I am a vision scientist currently working as a postdoctoral fellow at UC Berkeley."
   location         : "San Francisco, CA"
   email            :
@@ -119,9 +119,9 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/GnarlyTinmen"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=Lqnrr_wAAAAJ"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tsmanning"
