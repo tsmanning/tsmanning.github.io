@@ -305,15 +305,15 @@
      id="layer1"
      transform="translate(-18.87913,-98.567066)">
     <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 35.396712,107.00471 53.75335,105.865"
        id="path8260" />
     <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;fill:#ffffff;stroke:#ffffff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 53.748313,102.74329 -18.362229,4.25975"
        id="path9124" />
     <path
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#ffffff;fill-opacity:0;stroke:#ffffff;stroke-width:0.265;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path8544"
        sodipodi:type="arc"
        sodipodi:cx="35.400738"
@@ -329,12 +329,12 @@
        xml:space="preserve"
        transform="matrix(0.19194661,0,0,0.19194661,-44.313247,8.8417072)"
        id="text18396-5-6-7-5-9-5"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect18398-7-9-1-8-5-7);fill:#000000;fill-opacity:1;stroke:none"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect18398-7-9-1-8-5-7);fill:#ffffff;fill-opacity:1;stroke:none"><tspan
          x="450.9375"
          y="493.23239"
-         id="tspan975">θ<tspan
+         id="tspan1011">θ<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan973">yL</tspan></tspan></text>
+   id="tspan1009">yL</tspan></tspan></text>
     <g
        id="g10289"
        transform="matrix(0.72546748,0,0,0.72546748,-6.0210556,-5.255608)">
