@@ -13,6 +13,8 @@ layout: single
   {% assign posts = site.posts %}
 {% endif %}
 
+<img src="{{ s.image | relative_url }}">
+
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
   {% for post in posts %}
