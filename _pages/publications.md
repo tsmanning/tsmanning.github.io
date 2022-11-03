@@ -14,12 +14,12 @@ inferring Bayesian ideal observer models from psychophysical data. eNeuro. [\[Li
 - McLean IR, **Manning TS**, Cooper EA. (2022) Perceptual adaptation to continuous versus intermittent
 exposure to spatial distortions. IOVS. 63 (5):29. [\[Link\]](https://doi.org/10.1167/iovs.63.5.29)
 
-- **Manning TS**, Britten KH. (2019). Retinal stabilization reveals limited influence of extraretinal signals on
+- **Manning TS**, Britten KH. (2019) Retinal stabilization reveals limited influence of extraretinal signals on
 heading tuning in the medial superior temporal area. J Neurosci. 39 (41) 8064-8078.
 [\[Link\]](https://doi.org/10.1523/JNEUROSCI.0388-19.2019) [\[Code\]](https://github.com/tsmanning/EfferenceCopyMST)
 
 # Invited Reviews
-- **Manning TS**, Britten KH. (2017). Motion processing in primates. Oxford Research Encyclopedia of
+- **Manning TS**, Britten KH. (2017) Motion processing in primates. Oxford Research Encyclopedia of
 Neuroscience. [\[Link\]](http://neuroscience.oxfordre.com/view/10.1093/acrefore/9780190264086.001.0001/acrefore-
 9780190264086-e-76.)
 
@@ -36,7 +36,7 @@ Spatial Distortions. Poster presented at Society for Neuroscience, Chicago, IL.
 
 - **Manning TS**, McLean IR, Naecker B, Pillow JW, Rokers B, Cooper EA. (2021) Estimating perceptual
 priors with finite experiments. Poster presented at Virtual Vision Sciences Society.
-[\[Link\]](https://jov.arvojournals.org/article.aspx?articleid=2777470) [\[PDF\]](/files/ManningVVSS2021Poster.pdf)[Code]()
+[\[Link\]](https://jov.arvojournals.org/article.aspx?articleid=2777470) [\[PDF\]](/files/ManningVVSS2021Poster.pdf) [\[Code\]]()
 
 - **Manning TS**, Britten KH. (2016) Retinal stabilization reveals limits of efference copy influence on heading
 tuning in the medial superior temporal area (MST). Poster presented at Society for Neuroscience, San
