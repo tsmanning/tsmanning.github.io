@@ -1,15 +1,11 @@
 # main links
 main:
-  #- title: "About"
-  #  url: /about
   - title: "Resume"
-    #url: /files/TSM_resume_Nov2022.pdf
-    url: /resume
+    url: /files/TSM_resume_Nov2022.pdf
+    #url: /resume
   - title: "Projects"
     url: /projects
   - title: "Publications"
     url: /publications
   - title: "Teaching"
     url: /teaching
-  # - title: "Sitemap"
-  #   url: /sitemap/
