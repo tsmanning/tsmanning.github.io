@@ -27,9 +27,11 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
-{% include sidepic.html %}
+<!--{% include feature_row id="intro" type="center" %}-->
 
-{% include feature_row id="intro" type="center" %}
+{{ content }}
+
+{% include sidepic.html %}
 
 <p>I am a vision scientist currently working as a postdoctoral fellow at University of California, Berkeley
 under the supervision of <a href="http://www.emilyacooper.org/">Dr. Emily A. Cooper</a>. I'm interested in stereovision and
