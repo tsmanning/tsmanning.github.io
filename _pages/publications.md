@@ -4,10 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
-# Preprints
+## Preprints
 - [Coming soon]
 
-# Journal Articles
+## Journal Articles
 - **Manning TS**, Naecker BN, McLean IR, Rokers B, Pillow JW, Cooper EA. (2022) A general framework for
 inferring Bayesian ideal observer models from psychophysical data. eNeuro. [\[Link\]](https://doi.org/10.1523/ENEURO.0144-22.2022) [\[Code\]](https://github.com/tsmanning/bayesIdealObserverMoG)
 
@@ -18,12 +18,12 @@ exposure to spatial distortions. IOVS. 63 (5):29. [\[Link\]](https://doi.org/10.
 heading tuning in the medial superior temporal area. J Neurosci. 39 (41) 8064-8078.
 [\[Link\]](https://doi.org/10.1523/JNEUROSCI.0388-19.2019) [\[Code\]](https://github.com/tsmanning/EfferenceCopyMST)
 
-# Invited Reviews
+## Invited Reviews
 - **Manning TS**, Britten KH. (2017) Motion processing in primates. Oxford Research Encyclopedia of
 Neuroscience. [\[Link\]](http://neuroscience.oxfordre.com/view/10.1093/acrefore/9780190264086.001.0001/acrefore-
 9780190264086-e-76.)
 
-# Conference Abstracts
+## Conference Abstracts
 - **Manning TS**, Pillow JW, Rokers B, Cooper EA. (2022) Humans make non-ideal inferences about world
 motion. Poster presented at Vision Sciences Society. [\[PDF\]](/files/ManningPosterVSS2022.pdf)
 
