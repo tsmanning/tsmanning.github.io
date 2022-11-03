@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="34.899128mm"
+   height="17.965593mm"
+   viewBox="0 0 34.899128 17.965593"
    version="1.1"
    id="svg4240"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="4.3994184"
-     inkscape:cx="202.64042"
-     inkscape:cy="415.16851"
+     inkscape:cx="131.26735"
+     inkscape:cy="42.61927"
      inkscape:window-width="2500"
      inkscape:window-height="1376"
      inkscape:window-x="1980"
@@ -302,13 +302,14 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-18.87913,-98.567066)">
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="M 35.396712,107.00471 53.75335,105.865"
        id="path8260" />
     <path
-       style="display:inline;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 53.748313,102.74329 -18.362229,4.25975"
        id="path9124" />
     <path
@@ -331,9 +332,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect18398-7-9-1-8-5-7);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="450.9375"
          y="493.23239"
-         id="tspan5782">θ<tspan
+         id="tspan975">θ<tspan
    style="font-size:65%;baseline-shift:sub"
-   id="tspan5780">yL</tspan></tspan></text>
+   id="tspan973">yL</tspan></tspan></text>
     <g
        id="g10289"
        transform="matrix(0.72546748,0,0,0.72546748,-6.0210556,-5.255608)">
