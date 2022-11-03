@@ -3,7 +3,7 @@ main:
   #- title: "About"
   #  url: /about
   - title: "Resume"
-    url: /TSM_resume_Nov2022.pdf"
+    url: /files/TSM_resume_Nov2022.pdf
   - title: "Projects"
     url: /projects
   - title: "Publications"
