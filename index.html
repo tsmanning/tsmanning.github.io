@@ -27,24 +27,56 @@ feature_row:
   - image_path: /assets/images/yosemiteValley2015.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    
+
 ---
 
 <!--{% include feature_row id="intro" type="center" %}-->
 
-{% include sidepic.html %}
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
-<p>I am a vision scientist currently working as a postdoctoral fellow at University of California, Berkeley
-under the supervision of <a href="http://www.emilyacooper.org/">Dr. Emily A. Cooper</a>. I'm interested in stereovision and
-motion perception, with a focus on computational modeling and psychophysics.</p>
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
 
-<p>I completed my PhD in Neuroscience at University of California, Davis under the supervision of
-<a href="https://scholar.google.com/citations?hl=en&user=7pLcIR8AAAAJ">Dr. Kenneth H. Britten</a>, where I investigated how the visual system extracts
-information about heading from the retinal images during smooth pursuit eye movements using non-human primate models.</p>
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+</style>
+</head>
+<body>
 
-<p>I have an undergraduate degree in physiology with a minor in Neuroscience from
-McGill University in Montreal, QC, Canada. During my undergrad studies, I worked as a research associate under the supervision
-of Dr. Petra Schweinhardt investigating the neurocorrelates of cortical reorganization and dysfunction in individuals with
-chronic pain syndromes.</p>
+<h2>Two Equal Columns</h2>
+
+<div class="row">
+  <div class="column"></div>
+
+  <div class="column"></div>
+    <p>I am a vision scientist currently working as a postdoctoral fellow at University of California, Berkeley
+      under the supervision of <a href="http://www.emilyacooper.org/">Dr. Emily A. Cooper</a>. I'm interested in stereovision and
+      motion perception, with a focus on computational modeling and psychophysics.</p>
+
+    <p>I completed my PhD in Neuroscience at University of California, Davis under the supervision of
+      <a href="https://scholar.google.com/citations?hl=en&user=7pLcIR8AAAAJ">Dr. Kenneth H. Britten</a>, where I investigated how the visual system extracts
+      information about heading from the retinal images during smooth pursuit eye movements using non-human primate models.</p>
+
+    <p>I have an undergraduate degree in physiology with a minor in Neuroscience from
+      McGill University in Montreal, QC, Canada. During my undergrad studies, I worked as a research associate under the supervision
+      of Dr. Petra Schweinhardt investigating the neurocorrelates of cortical reorganization and dysfunction in individuals with
+      chronic pain syndromes.</p>
+</div>
+
+</body>
+
 
 <!--{% include feature_row %}-->
