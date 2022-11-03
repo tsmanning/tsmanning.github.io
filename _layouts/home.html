@@ -1,16 +1,25 @@
 ---
-layout: single
+layout: splash
+permalink: /home/
 header:
-  image: /assets/images/yosemiteValley2015.jpg
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/yosemiteValley2015.jpg
+excerpt: #""
+intro:
+  - excerpt: "Here's some placeholder text for now"
 ---
+
 
 {{ content }}
 
-<!img src="/assets/images/yosemiteValley2015.jpg">
+{% include feature_row id="intro" type="center" %}
+
+<!--{{ content }}
 
 [Here's some placeholder text for now.]
 <!--<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
--->
+
 {% if paginator %}
   {% assign posts = paginator.posts %}
 {% else %}
@@ -24,4 +33,4 @@ header:
   {% endfor %}
 </div>
 
-{% include paginator.html %}
+{% include paginator.html %}-->
