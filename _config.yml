@@ -106,7 +106,7 @@ analytics:
 author:
   name             : #"Tyler Manning"
   avatar           : "assets/images/photo_2021-08-09_09-49-12.jpg"
-  bio              : "I am a vision scientist currently working as a postdoctoral fellow at UC Berkeley."
+  bio              : #"I am a vision scientist currently working as a postdoctoral fellow at UC Berkeley."
   location         : "San Francisco, CA"
   email            :
   links:
