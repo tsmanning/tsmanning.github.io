@@ -24,8 +24,7 @@ heading tuning in the medial superior temporal area. J Neurosci. 39 (41) 8064-80
 
 ## Invited Reviews
 - **Manning TS**, Britten KH. (2017) Motion processing in primates. Oxford Research Encyclopedia of
-Neuroscience. [\[Link\]](http://neuroscience.oxfordre.com/view/10.1093/acrefore/9780190264086.001.0001/acrefore-
-9780190264086-e-76.)
+Neuroscience. [\[Link\]](https://doi.org/10.1093/acrefore/9780190264086.013.76)
 
 ## Conference Abstracts
 - **Manning TS**, Pillow JW, Rokers B, Cooper EA. (2022) Humans make non-ideal inferences about world
