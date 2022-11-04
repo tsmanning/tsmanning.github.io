@@ -42,7 +42,7 @@ feature_row:
 /* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 25%;
+  width: 100%;
   padding: 10px;
 }
 
@@ -59,13 +59,20 @@ feature_row:
     width: 25%;
   }
 }
+
+/* Restrict responsive image to a maximum size, using max-width property */
+.responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
 </style>
 </head>
 <body>
 
 <div class="row">
   <div class="column"></div>
-    <img src="/assets/images/photo_2021-08-09_09-49-12.jpg" alt="headshot" class="center">
+    <img src="/assets/images/photo_2021-08-09_09-49-12.jpg" alt="headshot" class="responsive">
   <div class="column"></div>
     <p>I am a vision scientist currently working as a postdoctoral fellow at University of California, Berkeley
       under the supervision of <a href="http://www.emilyacooper.org/">Dr. Emily A. Cooper</a>. I'm interested in stereovision and
