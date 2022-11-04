@@ -8,9 +8,6 @@ header:
   overlay_image: /assets/images/yosemiteValley2015.jpg
 ---
 
-## Preprints
-- [Coming soon]
-
 ## Journal Articles
 - **Manning TS**, Naecker BN, McLean IR, Rokers B, Pillow JW, Cooper EA. (2022) A general framework for
 inferring Bayesian ideal observer models from psychophysical data. eNeuro. [\[Link\]](https://doi.org/10.1523/ENEURO.0144-22.2022) [\[Code\]](https://github.com/tsmanning/bayesIdealObserverMoG)
