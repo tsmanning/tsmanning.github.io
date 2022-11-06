@@ -8,4 +8,10 @@ header:
   overlay_image: /assets/images/yosemiteValley2015.jpg
 ---
 
-[Coming soon]
+## Optimal neural codes for binocular disparity
+
+
+## Unconscious inference in motion perception
+
+
+## Extracting heading from retinal images during eye movements
