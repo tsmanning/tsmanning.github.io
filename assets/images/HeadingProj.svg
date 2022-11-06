@@ -9,6 +9,9 @@
    viewBox="0 0 439.27161 270.01257"
    height="270.01257mm"
    width="439.27161mm"
+   inkscape:export-filename="/home/tyler/bin/tsmanning.github.io/assets/images/HeadingProj.png"
+   inkscape:export-xdpi="150"
+   inkscape:export-ydpi="150"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,7 +27,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.77771464"
-     inkscape:cx="611.40678"
+     inkscape:cx="593.40531"
      inkscape:cy="659.62498"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
@@ -412,7 +415,7 @@
      id="layer1"
      transform="translate(20.015388,-141.85488)">
     <rect
-       style="fill:#ffffff;fill-opacity:0.5;stroke:none;stroke-width:7.1238;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:none;fill:#ffffff;fill-opacity:0.5;stroke:none;stroke-width:7.1238;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect54593"
        width="439.25101"
        height="270"
@@ -660,15 +663,15 @@
        y="0"><tspan
          x="296.3418"
          y="1568.2734"
-         id="tspan13587"><tspan
+         id="tspan14312"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan13585">Motor commands
+           id="tspan14310">Motor commands
 </tspan></tspan><tspan
          x="192.32324"
          y="1643.2734"
-         id="tspan13591"><tspan
+         id="tspan14316"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan13589">(To Extraocular Muscles)
+           id="tspan14314">(To Extraocular Muscles)
 </tspan></tspan></text>
     <text
        xml:space="preserve"
@@ -679,14 +682,14 @@
        y="0"><tspan
          x="4.8398438"
          y="1568.2734"
-         id="tspan13595"><tspan
+         id="tspan14320"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan13593">Extraretinal </tspan></tspan><tspan
+           id="tspan14318">Extraretinal </tspan></tspan><tspan
          x="9.5566406"
          y="1643.2734"
-         id="tspan13599"><tspan
+         id="tspan14324"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan13597">Mechanism</tspan></tspan></text>
+           id="tspan14322">Mechanism</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457101,0,0,0.26457101,149.48614,-105.35337)"
@@ -696,14 +699,14 @@
        y="0"><tspan
          x="56.24707"
          y="1568.2734"
-         id="tspan13603"><tspan
+         id="tspan14328"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan13601">Retinal </tspan></tspan><tspan
+           id="tspan14326">Retinal </tspan></tspan><tspan
          x="-10.40332"
          y="1643.2734"
-         id="tspan13607"><tspan
+         id="tspan14332"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan13605">Mechanism</tspan></tspan></text>
+           id="tspan14330">Mechanism</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457101,0,0,0.26457101,154.19201,-181.22551)"
@@ -713,14 +716,14 @@
        y="0"><tspan
          x="52.291016"
          y="1568.2734"
-         id="tspan13611"><tspan
+         id="tspan14336"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan13609">Visual </tspan></tspan><tspan
+           id="tspan14334">Visual </tspan></tspan><tspan
          x="64.170898"
          y="1643.2734"
-         id="tspan13615"><tspan
+         id="tspan14340"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan13613">Input</tspan></tspan></text>
+           id="tspan14338">Input</tspan></tspan></text>
     <text
        xml:space="preserve"
        transform="matrix(0.26457101,0,0,0.26457101,318.42987,-181.22551)"
@@ -730,14 +733,14 @@
        y="0"><tspan
          x="-3.8417969"
          y="1568.2734"
-         id="tspan13619"><tspan
+         id="tspan14344"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan13617">Perceived </tspan></tspan><tspan
+           id="tspan14342">Perceived </tspan></tspan><tspan
          x="17.017578"
          y="1643.2734"
-         id="tspan13623"><tspan
+         id="tspan14348"><tspan
            style="text-align:center;text-anchor:middle"
-           id="tspan13621">Heading</tspan></tspan></text>
+           id="tspan14346">Heading</tspan></tspan></text>
     <g
        id="g988"
        transform="matrix(0.23650587,0,0,-0.15874478,294.09331,215.87996)">
