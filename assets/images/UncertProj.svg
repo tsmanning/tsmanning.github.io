@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="473.03659mm"
-   height="238.71593mm"
-   viewBox="0 0 473.03659 238.71593"
+   width="395.00204mm"
+   height="193.98264mm"
+   viewBox="0 0 395.00204 193.98264"
    version="1.1"
    id="svg9013"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -27,15 +27,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.5554293"
-     inkscape:cx="1220.5634"
-     inkscape:cy="620.72896"
+     inkscape:zoom="0.77771465"
+     inkscape:cx="778.5632"
+     inkscape:cy="259.09246"
      inkscape:window-width="2500"
      inkscape:window-height="1376"
      inkscape:window-x="1980"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2-0-9-4-7" />
+     inkscape:current-layer="g261343-1" />
   <defs
      id="defs9010">
     <marker
@@ -622,18 +622,17 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(27.71851,3.8882582)">
+     transform="translate(-16.676241,-58.84005)">
     <g
        id="g261343-1"
        transform="matrix(0.90000003,0,0,0.90000003,-63.81102,-434.26002)">
       <rect
-         style="display:inline;fill:#4d4d4d;fill-opacity:0.992157;stroke:#ff0000;stroke-width:0.294443"
+         style="display:none;fill:#4d4d4d;fill-opacity:0.992157;stroke:#ff0000;stroke-width:0.294443"
          id="rect12484"
          width="644.58008"
          height="398.25806"
          x="7.298533"
-         y="435.22662"
-         sodipodi:insensitive="true" />
+         y="435.22662" />
       <g
          id="g11197-0"
          transform="matrix(0.48206112,0,0,0.48206112,-271.47476,299.34647)">
@@ -1786,12 +1785,12 @@
                  inkscape:connector-curvature="0"
                  id="path4856-2-3-2-5"
                  d="M -79.251592,181.80559 -110.16058,6.5116766"
-                 style="fill:#bde7ff;fill-rule:evenodd;stroke:#c1e6fc;stroke-width:0.983848;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+                 style="fill:#bde7ff;fill-opacity:1;fill-rule:evenodd;stroke:#c1e6fc;stroke-width:0.983848;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
               <path
                  inkscape:connector-curvature="0"
                  id="path4856-8-8-8-8-7"
                  d="M -60.217449,6.731915 -91.126497,182.02583"
-                 style="fill:#bde7ff;fill-rule:evenodd;stroke:#c1e6fc;stroke-width:0.983852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+                 style="fill:#bde7ff;fill-opacity:1;fill-rule:evenodd;stroke:#c1e6fc;stroke-width:0.983852;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             </g>
             <g
                id="g5631-1-2-1">
@@ -2069,12 +2068,12 @@
                  inkscape:connector-curvature="0"
                  id="path4856-9-8-3-9"
                  d="M -74.213501,181.84152 -95.987366,58.355714"
-                 style="fill:#bde7ff;fill-rule:evenodd;stroke:#c1e6fc;stroke-width:1.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+                 style="fill:#bde7ff;fill-opacity:1;fill-rule:evenodd;stroke:#c1e6fc;stroke-width:1.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
               <path
                  inkscape:connector-curvature="0"
                  id="path4856-8-6-6-1-6"
                  d="M -69.556353,58.575919 -91.330239,182.06176"
-                 style="fill:#bde7ff;fill-rule:evenodd;stroke:#c1e6fc;stroke-width:1.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+                 style="fill:#bde7ff;fill-opacity:1;fill-rule:evenodd;stroke:#c1e6fc;stroke-width:1.4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
             </g>
             <g
                transform="matrix(0.54701004,0,0,1.1113744,-33.062886,42.27379)"
