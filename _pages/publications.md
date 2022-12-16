@@ -25,7 +25,7 @@ Neuroscience. [\[Link\]](https://doi.org/10.1093/acrefore/9780190264086.013.76)
 
 ## Conference Abstracts
 - **Manning TS**, Pillow JW, Rokers B, Cooper EA. (2022) Humans make non-ideal inferences about world
-motion. Poster presented at Vision Sciences Society. [\[PDF\]](/files/ManningPosterVSS2022.pdf)
+motion. Poster presented at Vision Sciences Society. [\[Link\]](https://doi.org/10.1167/jov.22.14.4054) [\[PDF\]](/files/ManningPosterVSS2022.pdf)
 
 - **Manning TS**, Alexander E, DeAngelis GC, Huang X, Cooper EA. (2021) Role of MT Disparity Tuning
 Biases in Figure-Ground Segregation. Poster presented at Society for Neuroscience, Chicago, IL. [\[Link\]](https://www.abstractsonline.com/pp8/#!/10485/presentation/24967) [\[PDF\]](/files/ManningSfN2021_slides.pdf) [\[Code\]](https://github.com/tsmanning/DisparityInfoProject)
