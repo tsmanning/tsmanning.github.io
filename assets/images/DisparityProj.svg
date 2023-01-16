@@ -3,8 +3,8 @@
 
 <svg
    width="119.99999mm"
-   height="219.13753mm"
-   viewBox="0 0 119.99999 219.13753"
+   height="218.9212mm"
+   viewBox="0 0 119.99999 218.92121"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
@@ -29,7 +29,7 @@
      showgrid="false"
      inkscape:zoom="1.5554293"
      inkscape:cx="418.21252"
-     inkscape:cy="598.87004"
+     inkscape:cy="496.00454"
      inkscape:window-width="2500"
      inkscape:window-height="1376"
      inkscape:window-x="1980"
@@ -131,12 +131,12 @@
      id="layer1"
      transform="translate(126.23232,45.42332)">
     <rect
-       style="display:none;fill:#437cc1;fill-opacity:1;stroke:#c1e6fc;stroke-width:2.51801"
+       style="display:none;fill:#437cc1;fill-opacity:1;stroke:none;stroke-width:1.94838"
        id="rect27437"
-       width="153.19028"
-       height="287.83295"
-       x="-140.97781"
-       y="-87.39019"
+       width="120"
+       height="220"
+       x="-126.23232"
+       y="-45.423321"
        sodipodi:insensitive="true" />
     <g
        id="g26761"
@@ -293,14 +293,7 @@
       <g
          transform="matrix(0.16542275,0,0,0.16542275,-63.488849,50.642336)"
          style="font-style:normal;font-weight:normal;font-size:26.6667px;font-family:SansSerif;color-interpolation:linearRGB;fill:#ffffff;fill-opacity:1;stroke:#262626;stroke-width:1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
-         id="g252">
-        <text
-           x="-170.5"
-           xml:space="preserve"
-           y="25"
-           style="fill:#ffffff;stroke:none"
-           id="text250">Horizontal disparity (deg)</text>
-      </g>
+         id="g252" />
       <g
          style="font-style:normal;font-weight:normal;font-size:12px;font-family:Dialog;color-interpolation:linearRGB;fill:#262626;fill-opacity:1;stroke:#262626;stroke-width:0.6667;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
          id="g270"
@@ -432,6 +425,14 @@
    y="-0.79561847"
    id="tspan4854-0-7"
    style="stroke-width:0.101144px" /></tspan></text>
+      <text
+         x="-85.560432"
+         xml:space="preserve"
+         y="54.633827"
+         style="font-style:normal;font-weight:normal;font-size:4.69125px;font-family:SansSerif;-inkscape-font-specification:Helvetica;display:inline;color-interpolation:linearRGB;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.115506;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:optimizeQuality;image-rendering:optimizeQuality;shape-rendering:auto;text-rendering:geometricPrecision"
+         id="text1541-9"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.69125px;font-family:arial;-inkscape-font-specification:arial;fill:#ffffff;fill-opacity:1;stroke-width:0.115506"
+           id="tspan7707-8">binocular disparity (°)</tspan></text>
     </g>
     <g
        id="g26712"
@@ -789,13 +790,13 @@
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.0679px;font-family:arial;-inkscape-font-specification:arial;fill:#ffffff;fill-opacity:1;stroke-width:0.272512"
                id="tspan43086">2</tspan></text>
           <text
-             x="-147.26659"
+             x="-135.25378"
              xml:space="preserve"
-             y="468.69418"
-             style="font-size:10.9559px;font-family:SansSerif;color-interpolation:linearRGB;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.269752;color-rendering:optimizeQuality;image-rendering:optimizeQuality;text-rendering:geometricPrecision"
+             y="468.30338"
+             style="font-size:10.4166px;font-family:SansSerif;color-interpolation:linearRGB;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.256473;color-rendering:optimizeQuality;image-rendering:optimizeQuality;text-rendering:geometricPrecision"
              id="text1541"><tspan
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.9559px;font-family:arial;-inkscape-font-specification:arial;fill:#ffffff;fill-opacity:1;stroke-width:0.269752"
-               id="tspan7707">Horizontal disparity (deg)</tspan></text>
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.4166px;font-family:arial;-inkscape-font-specification:arial;fill:#ffffff;fill-opacity:1;stroke-width:0.256473"
+               id="tspan7707">binocular disparity (°)</tspan></text>
         </g>
         <g
            id="g12914"
@@ -805,13 +806,13 @@
              style="font-size:29.3333px;font-family:SansSerif;color-interpolation:linearRGB;fill:#ffffff;fill-opacity:1;stroke:#262626;color-rendering:optimizeQuality;image-rendering:optimizeQuality;text-rendering:geometricPrecision"
              id="g1609">
             <text
-               x="-279.76782"
+               x="-263.25452"
                xml:space="preserve"
-               y="-7"
-               style="font-size:40.6145px;fill:#ffffff;fill-opacity:1;stroke:none"
+               y="-8.7174988"
+               style="font-size:38.2443px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.94164"
                id="text1607"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.6145px;font-family:arial;-inkscape-font-specification:arial;fill:#ffffff;fill-opacity:1"
-                 id="tspan5815">Fisher Information (normalized)</tspan></text>
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:38.2443px;font-family:arial;-inkscape-font-specification:arial;fill:#ffffff;fill-opacity:1;stroke-width:0.94164"
+                 id="tspan5815">Fisher information (normalized)</tspan></text>
           </g>
         </g>
       </g>
