@@ -8,11 +8,14 @@ header:
   overlay_image: /assets/images/yosemiteValley2015.jpg
 ---
 
+# Vision
+[coming soon]
+
+# Neuroscience
+[coming soon]
+
 # Software
 [coming soon]
 
 # Academia
-[coming soon]
-
-# Human vision
 [coming soon]
