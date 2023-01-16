@@ -8,28 +8,22 @@ header:
   overlay_image: /assets/images/yosemiteValley2015.jpg
 ---
 
-# Reviews and lectures
+## Reviews and lectures
 - I wrote a [brief review](https://tsmanning.github.io/files/Manning_Britten.2017.pdf) of visual motion processing in primates with Ken Britten a few years back.
 - I put together a [lecture](https://tsmanning.github.io/files/MotionContrast.pdf) on motion and contrast and their relation to neurophysiology and perception that might be helpful for people just dipping their toes into systems neuro.
 
----
-
-# Visual perception
+## Visual perception
 - Michael Bach's illusion [website](https://michaelbach.de/ot/)
 - Clif Schor's Oculomotor [website](http://schorlab.berkeley.edu/passpro/oculomotor/default.html)
 
----
-
-# Neuroscience
+## Neuroscience
 - Neuromatch [academy](https://academy.neuromatch.io/): great resources for computational neuroscience and deep learning
 - Anne's list: [list](https://anneslist.net/) of female systems neuroscientists
 - [Spikes](https://mitpress.mit.edu/9780262181747/spikes/): great computational neuroscience reference
 - Green & Swets' Signal Detection Theory [classic](https://psycnet.apa.org/record/1967-02286-000)
 - Dayan & Abbot's [Theoretical Neuroscience](https://mitpress.mit.edu/9780262041997/theoretical-neuroscience/)
 
----
-
-# Open Source Software
+## Open Source Software
 I try to use open source software whenever possible. Here's a bunch of applications I've come to know and love:
 - [Inkscape](https://inkscape.org/) (vector graphics software)
 - [OpenBoard](https://openboard.ch/index.en.html) (virtual whiteboard - great with Zoom + Wacom!)
@@ -42,8 +36,6 @@ I try to use open source software whenever possible. Here's a bunch of applicati
 - [CVSimulator](http://asada.website/cvsimulator/e/) (Android app) - Easy to use color blindness simulator
 - [Overleaf](https://www.overleaf.com/) (Web app) - Great way to collaborative write and visualize LaTeX docs
 
----
-
-# Etc.
+## Etc.
 - THE hobbyist electronics bible: [The Art of Electronics](https://artofelectronics.net/) - learned so much about how to fix and put together a homebrewed ephys and monkey behavior rig.
 - [Zinn & The Art of Road Bike Maintenance](https://zinncycles.com/new-zinn-the-art-of-road-bike-maintenance-4th-edition/) - great resource for maintaining your whip. I find RJ the Bike Guy and Park Tool's YouTube channels super helpful too.
