@@ -12,7 +12,7 @@ toc_label: "On this page"
 toc_sticky: true
 ---
 
-## Reviews and lectures
+<h2 id="Reviews and lectures" style="margin-top: 0em">Reviews and lectures</h2>
 - I wrote a [brief review](https://tsmanning.github.io/files/Manning_Britten.2017.pdf) of visual motion processing in primates with Ken Britten a few years back.
 - I put together a [lecture](https://tsmanning.github.io/files/MotionContrast.pdf) on motion and contrast and their relation to neurophysiology and perception that might be helpful for people just dipping their toes into systems neuro.
 
