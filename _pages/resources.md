@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/yosemiteValley2015.jpg
 
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "On this page"
 ---
 
 ## Reviews and lectures
