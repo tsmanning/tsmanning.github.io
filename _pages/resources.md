@@ -17,15 +17,16 @@ toc_sticky: true
 - I put together a [lecture](https://tsmanning.github.io/files/MotionContrast.pdf) on motion and contrast and their relation to neurophysiology and perception that might be helpful for people just dipping their toes into systems neuro.
 
 ## Visual perception
-- Michael Bach's illusion [website](https://michaelbach.de/ot/)
-- Clif Schor's Oculomotor [website](http://schorlab.berkeley.edu/passpro/oculomotor/default.html)
+- Michael Bach's illusion [website](https://michaelbach.de/ot/) - lots of great illusion demos
+- Akiyoshi Kitaoka's [website](http://www.psy.ritsumei.ac.jp/~akitaoka/) - the GOAT of artistic illusions
+- Clif Schor's Oculomotor [website](http://schorlab.berkeley.edu/passpro/oculomotor/default.html) - old but gold reference for all things oculmotor (axis conventions, Listing's law, etc)
 
 ## Neuroscience
-- Neuromatch [academy](https://academy.neuromatch.io/): great resources for computational neuroscience and deep learning
-- Anne's list: [list](https://anneslist.net/) of female systems neuroscientists
-- [Spikes](https://mitpress.mit.edu/9780262181747/spikes/): great computational neuroscience reference
-- Green & Swets' Signal Detection Theory [classic](https://psycnet.apa.org/record/1967-02286-000)
-- Dayan & Abbot's [Theoretical Neuroscience](https://mitpress.mit.edu/9780262041997/theoretical-neuroscience/)
+- Neuromatch [academy](https://academy.neuromatch.io/) - great resources for computational neuroscience and deep learning
+- Anne's [list](https://anneslist.net/) - systems neuroscience has a strong bias towards male PIs: Anne Churchland maintains a list of badass female PIs
+- Bialek/van Steveninck/Rieke/Warland's [Spikes](https://mitpress.mit.edu/9780262181747/spikes/) - great computational neuroscience reference
+- Green & Swets' [Signal Detection Theory](https://psycnet.apa.org/record/1967-02286-000) - absolute classic reference for neuroscience and psychophysics
+- Dayan & Abbot's [Theoretical Neuroscience](https://mitpress.mit.edu/9780262041997/theoretical-neuroscience/) - another great resource for computational neuroscience
 
 ## Open Source Software
 I try to use open source software whenever possible. Here's a bunch of applications I've come to know and love:
@@ -41,5 +42,5 @@ I try to use open source software whenever possible. Here's a bunch of applicati
 - [Overleaf](https://www.overleaf.com/) (Web app) - Great way to collaborative write and visualize LaTeX docs
 
 ## Etc.
-- THE hobbyist electronics bible: [The Art of Electronics](https://artofelectronics.net/) - learned so much about how to fix and put together a homebrewed ephys and monkey behavior rig.
+- [The Art of Electronics](https://artofelectronics.net/) - THE hobbyist electronics bible: learned so much about how to fix and put together a homebrewed ephys and monkey behavior rig.
 - [Zinn & The Art of Road Bike Maintenance](https://zinncycles.com/new-zinn-the-art-of-road-bike-maintenance-4th-edition/) - great resource for maintaining your whip. I find RJ the Bike Guy and Park Tool's YouTube channels super helpful too.
