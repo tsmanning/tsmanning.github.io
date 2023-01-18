@@ -110,7 +110,6 @@ h3 {
   <h3>Published reports</h3>
   <ol id="pubs1"><li>Manning TS, Pillow JW, Rokers B, Cooper EA. (2022) Humans make non-ideal inferences about world motion.
     Journal of Vision 2022;22(14):4054. doi: <a href="https://doi.org/10.1167/jov.22.14.4054">10.1167/jov.22.14.4054</a>.</li>
-    <li>Manning TS, Naecker BN, McLean IR, Rokers B, Pillow JW, Cooper EA. (2022) A general framework for inferring Bayesian ideal observer models from psychophysical data. eNeuro. doi: <a href="https://doi.org/10.1523/ENEURO.0144-22.2022">10.1523/ENEURO.0144-22.2022</a>.</li>
     <li>Manning TS, Pillow JW, Rokers B, Cooper EA. (2023) Contrast-dependent speed biases are distance-dependent too. In Prep.</li>
   </ol>
   </div>
@@ -119,7 +118,6 @@ h3 {
   <h3>Code repositories</h3>
   <ul><li>Stimulus <a href="https://github.com/tsmanning/priorCoords_ptbCode">[Code]</a></li>
     <li>Analysis <a href="https://github.com/tsmanning/priorCoords_analysis">[Code]</a></li>
-    <li>Bayesian ideal observer framework <a href="https://github.com/tsmanning/bayesIdealObserverMoG">[Code]</a></li>
   </ul>
   </div>
 </div>
@@ -165,6 +163,49 @@ h3 {
 </div>
 
 <!-- Project 3 container -->
+<h2 id="Improved methods for estimating perceptual priors">Improved methods for estimating perceptual priors</h2>
+<div class="row">
+  <div class="column left">
+    <img src="/assets/images/priorEstProj.png" alt="xxx" width="600" class="responsive">
+  </div>
+  <div class="column right">
+    <p>The goal of psychophysics is to define a lawful relationship between externally quantifiable aspects of the world
+      (like luminance, distance, mass, etc.) and our perception of the world based on noisy measurements from our biological sensors.
+      This problem has direct analogs in signal detection, computer vision, etc. and as such, human psychophysics research has
+      used a lot of the same computational methods for modeling the brain with ideal observer frameworks. One aspect of perception that
+      remains less well defined is the set of assumptions the brain makes while interpreting these sensory inputs<span>&#8212;</span>these
+      assumptions are commonly called perceptual <em>priors</em>. These assumptions are thought to underlie the systematic biases that people
+      exhibit when making judgments about things like the angles of contours or the speed of objects or their own self-motion.</p>
+
+    <p>Perceptual priors are often assumed to represent the brain learning statistical regularities in the environment (e.g. the distribution
+      of contour orientations or object speeds). It remains an open question how well our priors capture these statistics (as measured by head-mounted
+      cameras, etc.) and how much these priors vary between individuals. One issue in resolving this question is the limitations of the mathematical tools
+      used to estimate them. Researchers have either nonparametrically derived priors or define them with parametric functions like a Gaussian or piecewise
+      linear functions. This project had two main goals: 1) to define the accuracy and precision with which we estimate priors (so we can asses how much
+      they vary between people and how well they match stimulus statistics) and 2) adapt existing statistical methods from other fields for use in perceptual
+      science so we are less constrained by the range of possible priors we could faithfully estimate.</p>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column rightbib">
+  <h3>Published reports</h3>
+  <ol id="pubs2"><li>Manning TS, Naecker BN, McLean IR, Rokers B, Pillow JW, Cooper EA. (2022) A general framework for
+    inferring Bayesian ideal observer models from psychophysical data. eNeuro. doi: <a href="https://doi.org/10.1523/ENEURO.0144-22.2022">10.1523/ENEURO.0144-22.2022</a>.</li>
+    <li>Manning TS, McLean IR, Naecker BN, Pillow JW, Rokers B, Cooper EA. (2021) Estimating perceptual
+    priors with finite experiments. Journal of Vision 21 (9), 2215-2215. doi: <a href="https://doi.org/10.1167/jov.21.9.2215">10.1167/jov.21.9.2215</a>.</li>
+  </ol>
+  </div>
+
+  <div class="column leftbib">
+  <h3>Code repositories</h3>
+  <ul><li>Bayesian ideal observer framework <a href="https://github.com/tsmanning/bayesIdealObserverMoG">[Code]</a></li>
+    <li>Limits of perceptual prior estimates <a href="https://github.com/tsmanning/estimatingPriors">[Code]</a></li>
+  </ul>
+  </div>
+</div>
+
+<!-- Project 4 container -->
 <h2 id="Extracting heading from retinal images during eye movements">Extracting heading from retinal images during eye movements</h2>
 <div class="row">
   <div class="column left">
