@@ -14,7 +14,7 @@ toc_sticky: true
 
 <h2 id="Reviews and lectures" style="margin-top: 0em">Reviews and lectures</h2>
 - I wrote a [brief review](https://tsmanning.github.io/files/Manning_Britten.2017.pdf) of visual motion processing in primates with Ken Britten a few years back.
-- I put together a [lecture](https://tsmanning.github.io/files/MotionContrast.pdf) on motion and contrast and their relation to neurophysiology and perception that might be helpful for people just dipping their toes into systems neuro.
+- I put together a [lecture](https://docs.google.com/presentation/d/1YO3EHk7RuNYLw9BGeujYzPw3hC1-wkco/edit?usp=sharing&ouid=115952797950402308175&rtpof=true&sd=true) on motion and contrast and their relation to neurophysiology and perception that might be helpful for people just dipping their toes into systems neuro.
 
 ## Visual perception
 - Michael Bach's illusion [website](https://michaelbach.de/ot/) - lots of great illusion demos
