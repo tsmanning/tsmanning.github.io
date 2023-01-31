@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:tyler.manning2@gmail.com"
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/tyler-s-manning/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
