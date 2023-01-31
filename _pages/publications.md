@@ -44,7 +44,7 @@ Spatial Distortions. Poster presented at Society for Neuroscience, Chicago, IL.
 
 - **Manning TS**, McLean IR, Naecker B, Pillow JW, Rokers B, Cooper EA. (2021) Estimating perceptual
 priors with finite experiments. Poster presented at Virtual Vision Sciences Society.
-[\[Link\]](https://jov.arvojournals.org/article.aspx?articleid=2777470) [\[PDF\]](/files/ManningVVSS2021Poster.pdf) [\[Code\]]()
+[\[Link\]](https://jov.arvojournals.org/article.aspx?articleid=2777470) [\[PDF\]](/files/ManningVVSS2021Poster.pdf) [\[Code\]](https://github.com/tsmanning/estimatingPriors)
 
 - **Manning TS**, Britten KH. (2016) Retinal stabilization reveals limits of efference copy influence on heading
 tuning in the medial superior temporal area (MST). Poster presented at Society for Neuroscience, San

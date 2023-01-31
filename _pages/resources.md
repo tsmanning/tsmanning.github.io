@@ -28,8 +28,8 @@ toc_sticky: true
 - Green & Swets' [Signal Detection Theory](https://psycnet.apa.org/record/1967-02286-000) - absolute classic reference for neuroscience and psychophysics
 - Dayan & Abbot's [Theoretical Neuroscience](https://mitpress.mit.edu/9780262041997/theoretical-neuroscience/) - another great resource for computational neuroscience
 
-## Open Source Software
-I try to use open source software whenever possible. Here's a bunch of applications I've come to know and love:
+## Software
+Here's a bunch of applications I've come to know and love (most are FOSS, all have at least some free version):
 - [Inkscape](https://inkscape.org/) (vector graphics software)
 - [OpenBoard](https://openboard.ch/index.en.html) (virtual whiteboard - great with Zoom + Wacom!)
 - [Zotero](https://www.zotero.org/) (library manager)
@@ -44,3 +44,4 @@ I try to use open source software whenever possible. Here's a bunch of applicati
 ## Etc.
 - [The Art of Electronics](https://artofelectronics.net/) - THE hobbyist electronics bible: learned so much about how to fix and put together a homebrewed ephys and monkey behavior rig.
 - [Zinn & The Art of Road Bike Maintenance](https://zinncycles.com/new-zinn-the-art-of-road-bike-maintenance-4th-edition/) - great resource for maintaining your whip. I find RJ the Bike Guy and Park Tool's YouTube channels super helpful too.
+- [Transitioning from MATLAB to python](https://xcorr.net/2020/02/21/transitioning-away-from-matlab/) - Patrick Mineault's really got a great site for all things neuro and AI. Check out this if you're like many of us and trained to use MATLAB in lab and left feeling tethered by it. Also check out his [*Good Research Code Handbook*](https://goodresearch.dev/)!
