@@ -14,7 +14,7 @@ toc_sticky: true
 
 <h2 id="Preprints" style="margin-top: 0em">Preprints</h2>
 - **Manning TS**, Alexander E, Cumming BG, DeAngelis GC, Huang X, Cooper EA. (2023) Transformations of sensory
-information in the brain reflect a changing definition of optimality. [\[PDF\]](/files/Manningetal2023_InfoTransforms.pdf) [\[Code\]](https://github.com/tsmanning/DisparityInfoProject)
+information in the brain reflect a changing definition of optimality. In Prep. [\[Code\]](https://github.com/tsmanning/DisparityInfoProject)
 
 ## Journal Articles
 - **Manning TS**, Naecker BN, McLean IR, Rokers B, Pillow JW, Cooper EA. (2022) A general framework for
