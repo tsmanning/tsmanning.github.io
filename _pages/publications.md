@@ -14,7 +14,7 @@ toc_sticky: true
 
 <h2 id="Preprints" style="margin-top: 0em">Preprints</h2>
 - **Manning TS**, Alexander E, Cumming BG, DeAngelis GC, Huang X, Cooper EA. (2023) Transformations of sensory
-information in the brain reflect a changing definition of optimality. In Prep. [\[Code\]](https://github.com/tsmanning/DisparityInfoProject)
+information in the brain reflect a changing definition of optimality. [\[Preprint\]](https://www.biorxiv.org/content/10.1101/2023.03.24.534044v1). [\[Code\]](https://github.com/tsmanning/DisparityInfoProject)
 
 - **Manning TS**, Pillow JW, Rokers B, Cooper EA. (2023) Contrast-dependent speed biases are distance-dependent too. In Prep. [\[Code\]](https://github.com/tsmanning/priorCoords_analysis)
 
