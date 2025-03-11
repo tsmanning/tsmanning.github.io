@@ -12,9 +12,6 @@ toc_label: "On this page"
 toc_sticky: true
 ---
 
-<h2 id="Preprints" style="margin-top: 0em">Preprints</h2>
-- **Manning TS**, Pillow JW, Rokers B, Cooper EA. Contrast-dependent speed biases are distance-dependent too. In Prep. [\[Code\]](https://github.com/tsmanning/priorCoords_analysis)
-
 ## Journal Articles
 - **Manning TS**, Alexander E, Cumming BG, DeAngelis GC, Huang X, Cooper EA. (2024) Transformations of sensory
 information in the brain suggest changing criteria for optimality. [\[Link\]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011783). [\[Code\]](https://github.com/tsmanning/DisparityInfoProject)
